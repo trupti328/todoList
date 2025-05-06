@@ -55,5 +55,5 @@ Start the frontend server:
 
 npm run dev
 
-The React app will run on http://localhost:3000 and communicate with the backend at http://localhost:5000.
+The React app will run on http://localhost:5173 and communicate with the backend at http://localhost:5000.
 
