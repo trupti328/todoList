@@ -7,7 +7,7 @@ Backend: Node.js + Express.js + MongoDB (Mongoose)
 
 Frontend: React.js
 
-#🚀 Features
+🚀 Features
 Add new tasks
 
 Edit existing tasks
