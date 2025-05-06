@@ -27,47 +27,33 @@ Database: MongoDB (Cloud via MongoDB Atlas)
 1️⃣ Backend Setup
 Navigate to the backend folder:
 
-bash
-Copy
-Edit
 cd backend
 Install dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 Create a .env file and add:
 
-env
-Copy
-Edit
+
 PORT=5000
 MONGO_URI="your-mongodb-uri-here"
 Start the backend server:
 
-bash
-Copy
-Edit
-npm start
+node server.js
+
 2️⃣ Frontend Setup
 Navigate to the frontend folder:
 
-bash
-Copy
-Edit
+
 cd frontend
 Install dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 Start the frontend server:
 
-bash
-Copy
-Edit
-npm start
+
+npm run dev
+
 The React app will run on http://localhost:3000 and communicate with the backend at http://localhost:5000.
 
