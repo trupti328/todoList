@@ -1,11 +1,13 @@
-📝 To-Do List App
+# To-Do List App
+
+
 A full-stack To-Do list application where users can create, view, update, and delete tasks. Built using:
 
 Backend: Node.js + Express.js + MongoDB (Mongoose)
 
 Frontend: React.js
 
-🚀 Features
+#🚀 Features
 Add new tasks
 
 Edit existing tasks
